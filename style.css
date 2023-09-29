@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+img {
+    margin-top: 150px;
+    border-radius: 5%;
+    width: 800px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(75, 198, 187);
+    color: rgb(47, 101, 105);
+    text-align: center;
+}
